@@ -1,0 +1,6 @@
+streamlit
+joblib
+datetime
+pandas
+openpyxl
+scikit-learn
